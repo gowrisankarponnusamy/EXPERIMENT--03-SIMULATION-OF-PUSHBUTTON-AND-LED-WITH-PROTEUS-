@@ -193,7 +193,7 @@ void Error_Handler(void)
 
 
 ## Output screen shots of proteus  :
-![Screenshot (261)](https://github.com/user-attachments/assets/95167ac6-4a45-4719-ad2e-a07fc2603641)
+![Screenshot (263)](https://github.com/user-attachments/assets/d51ecffe-d647-49d5-a4f1-32e5cc78e454)
 
 ## Proteus layout(Add pdf screen shot of circuit here)
  ![Screenshot 2024-10-20 204855](https://github.com/user-attachments/assets/facdfa9f-6eb6-4c6c-9c02-0d11b6870216)
